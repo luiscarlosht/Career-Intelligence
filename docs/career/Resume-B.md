@@ -1,9 +1,12 @@
-# Resume B — Senior Engineering Manager
+# Resume B v1.0
 
-## Purpose
+# Luis Carlos Hernandez
 
-This resume is optimized for Senior Engineering Manager roles.
+Target: Senior Engineering Manager
 
-## Status
+> Derived from Resume A. Emphasizes engineering delivery, Agile leadership,
+people management, cross-functional execution, production support,
+vendor management, and enterprise software delivery.
 
-Planned
+## TODO
+This version will be refined after Resume A recruiter feedback.

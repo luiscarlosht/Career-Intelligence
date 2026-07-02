@@ -1,9 +1,11 @@
-# Resume C — Engineering Manager / Principal Engineer
+# Resume C v1.0
 
-## Purpose
+# Luis Carlos Hernandez
 
-This resume is optimized for Engineering Manager, Principal Engineer, and senior hands-on technical leadership roles.
+Target: Engineering Manager / Principal Engineer
 
-## Status
+> Derived from Resume A. Emphasizes technical leadership, architecture,
+Java, cloud, APIs, DevOps, and engineering excellence.
 
-Planned
+## TODO
+This version will be refined after Resume A recruiter feedback.

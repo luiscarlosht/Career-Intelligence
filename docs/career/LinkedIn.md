@@ -1,9 +1,15 @@
-# LinkedIn Executive Profile
+# LinkedIn Profile v1.0
 
-## Purpose
+## Headline
 
-Create an executive-level LinkedIn profile aligned with Resume A and the Director of Engineering target.
+Director of Engineering | Software Engineering Leader | AI Strategy |
+Engineering Transformation | Enterprise Platforms
 
-## Status
+## About
 
-Planned
+Engineering leader with 20+ years of experience delivering enterprise software
+across healthcare, financial services, aerospace, transportation, retail,
+and eCommerce. Passionate about building high-performing engineering
+organizations and applying AI to improve software delivery and operations.
+
+(Open this file to continue editing before publishing.)
