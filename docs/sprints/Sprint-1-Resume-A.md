@@ -1,50 +1,50 @@
 # Sprint 1 — Resume A
 
-## Goal
+**Feature:** CI-002 Resume A — Director of Engineering  
+**Version:** 0.2.0  
+**Status:** In Progress
 
-Create the flagship Director of Engineering resume for Luis Carlos Hernandez.
+## Objective
 
-## Status
+Create a Director of Engineering resume that positions Luis Carlos Hernandez as an executive-level engineering leader with enterprise delivery, production operations, vendor management, platform modernization, and AI-enabled engineering intelligence experience.
 
-In Progress
+## Deliverables
 
-## Inputs
+- `docs/career/Resume-A.md`
+- `data/resumes/ResumeA/Resume-A-Director-Engineering-v0.2.md`
 
-- Existing resume
-- Metro Global Ventures Director of Engineering posting
-- Career Intelligence strategy
-- Engineering Intelligence project history
-- IntelligenceOS platform vision
+## Resume Strategy
 
-## Target Role
+Resume A prioritizes:
 
-Director of Engineering / Director of Software Engineering
+- Director-level leadership positioning
+- Business and operational impact
+- Distributed team leadership
+- Vendor and stakeholder management
+- Production support and release governance
+- Engineering intelligence and AI-enabled analytics
+- Enterprise software delivery across multiple industries
 
-## Resume A Themes
+## Next Iteration
 
-- Engineering leadership
-- Delivery execution
-- Architecture ownership
-- Java / Spring / cloud platforms
-- Metrics and KPIs
-- Agile cadence
-- Production support transformation
-- AI-enabled engineering operations
-- Vendor and distributed team leadership
+Version 0.3 should add measurable metrics where available, such as:
+
+- Team sizes
+- Delivery throughput
+- Production support improvements
+- Release risk reduction
+- Cost savings
+- Dashboard adoption
+- Vendor hours or spend visibility
+- Incident reduction
+- Quality improvements
 
 ## Definition of Done
 
 Resume A is complete when:
 
-- It can be used for Director-level applications
-- It is ATS-friendly
-- It aligns with common Director of Engineering postings
-- It includes AI and Engineering Intelligence differentiators
-- It can be customized for a job posting in under 10 minutes
-
-## Next Tasks
-
-- Add quantified metrics
-- Convert to clean Word/PDF format
-- Create tailored Metro Global version
-- Create LinkedIn headline and About section from Resume A
+- It reads like a Director-level resume within the first 20 seconds.
+- It is concise enough for recruiters and detailed enough for executive hiring managers.
+- It supports ATS matching for Director of Engineering roles.
+- It can be tailored to specific job postings in less than 10 minutes.
+- It is synchronized with Career Master.
